@@ -3,7 +3,7 @@ import pandas as pd
 
 # 页面配置：适配手机屏幕
 st.set_page_config(
-    page_title="ZEN ZEN POT 运费助手", 
+    page_title="运费助手", 
     page_icon="📦",
     layout="centered"
 )

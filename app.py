@@ -32,7 +32,7 @@ weight = st.number_input(
     "货物实际重量 (KG)", 
     min_value=0.0, 
     max_value=30.0, 
-    value=0.50, 
+    value=0, 
     step=0.01,
     format="%.2f"
 )
